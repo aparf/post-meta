@@ -146,7 +146,7 @@ path{
 }
 
 .image{
-  background-image: url("/Users/alexanderstepin/Downloads/post-meta copy/t-shirt.jpg");
+  background-image: url("../t-shirt.jpg");
   background-size: contain;
   position: relative;
   /*z-index: 20;*/
